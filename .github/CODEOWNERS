@@ -1,0 +1,17 @@
+# cable-run-ts currently has one maintainer.
+* @thekidnamedkd
+
+# Automation, policy, and agent instructions always reach a maintainer.
+/.github/ @thekidnamedkd
+/scripts/ @thekidnamedkd
+/.github/workflows/ @thekidnamedkd
+/.github/CODEOWNERS @thekidnamedkd
+/tests/ @thekidnamedkd
+/.pr_agent.toml @thekidnamedkd
+/AGENTS.md @thekidnamedkd
+/SECURITY.md @thekidnamedkd
+/CONTRIBUTING.md @thekidnamedkd
+/CODE_OF_CONDUCT.md @thekidnamedkd
+
+# Add project-specific owners for dependency manifests, lockfiles,
+# authentication/security code, release code, and generators.
