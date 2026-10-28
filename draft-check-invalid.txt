@@ -1,0 +1,1 @@
+Temporary invalid draft used to exercise Helicopter refusal reporting; this branch will be closed.
