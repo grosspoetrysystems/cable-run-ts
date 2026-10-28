@@ -1,0 +1,1 @@
+Temporary valid draft used to exercise Helicopter checks; this branch will be closed.
